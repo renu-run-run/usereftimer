@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usereftimer/static/css/main.0e631cc6.css",
+    "main.js": "/usereftimer/static/js/main.a6a83ad0.js",
+    "static/js/787.3e2deca6.chunk.js": "/usereftimer/static/js/787.3e2deca6.chunk.js",
+    "index.html": "/usereftimer/index.html",
+    "main.0e631cc6.css.map": "/usereftimer/static/css/main.0e631cc6.css.map",
+    "main.a6a83ad0.js.map": "/usereftimer/static/js/main.a6a83ad0.js.map",
+    "787.3e2deca6.chunk.js.map": "/usereftimer/static/js/787.3e2deca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e631cc6.css",
+    "static/js/main.a6a83ad0.js"
+  ]
+}
